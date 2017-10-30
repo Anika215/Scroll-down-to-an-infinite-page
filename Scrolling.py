@@ -3,8 +3,8 @@ from selenium.webdriver.common.keys import Keys
 
 import time
 
-usr = "anikasy521@gmail.com"
-pwd = "twinkle12ay"
+usr = "A@K.com"
+pwd = "password"
 
 driver = webdriver.Chrome()
 
